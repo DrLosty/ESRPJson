@@ -38,13 +38,13 @@
       "Argonians are a reptilian race native to the treacherous swamps of Black Marsh. Adapted to their harsh environment, they possess the ability to breathe underwater and resist disease naturally. Argonians are deeply spiritual, guided by the Hist — ancient, sentient trees unique to their homeland. Outsiders often find them enigmatic and aloof, but among their own, they share strong communal bonds. Agile, stealthy, and resilient, Argonians excel at guerrilla tactics and survival. Their mysterious culture, shaped by isolation and the struggle for survival, makes them one of the most unique peoples of Tamriel."
     ],
     "statModifiers": [
-      "8,20,0",
-      "8,20,0",
+      "8,2,1",
+      "8,2,1",
       "0,20,0",
       "0,40,0",
       "9,20,0",
       "7,20,0/11,20,0",
-      "0,-40,0/8,40,0",
+      "0,40,0/8,4,1",
       "11,10,0/1,10,0",
       "0,10,0/1,10,0/11,10,0",
       "7,400,0"
