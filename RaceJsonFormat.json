@@ -1,0 +1,47 @@
+{
+  "RacesData": {
+    "menuTitle": "Choose Your Race",
+    "menuGuide": "This is a Role Playing server, where you'll shape your journey by selecting your character's race. This choice will define your character's stat modifiers, abilities, and unique lore—all integral to your adventure in this fantasy world.\n\nEach race offers distinct stat modifiers that impact your strength, agility, intelligence, and more, influencing your playstyle. In addition, you'll find a detailed lore or description of each race, providing insight into their history, culture, and how they fit into the world.\n\nYour race will affect not only your character's powers and appearance, but also your interactions with other players. Choose wisely, as this decision will guide your role in the ongoing story and the relationships you'll form throughout your adventure.\n\nExplore the options, review the stat modifiers, and dive into the rich lore of each race before making your choice. The world awaits you!",
+    "buttonTitles": [
+      "Server Website",
+      "Server Discord"
+    ],
+    "buttonURLs": [
+      "",
+      ""
+    ],
+    "raceNames": [
+      "Human",
+      "High Elf",
+      "Dark Elf",
+      "Breton",
+      "Argonian",
+      "Red Guard",
+      "Half Elf",
+      "Half Orc"
+    ],
+    "selectableRace": [
+      "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE"
+    ],
+    "raceDescriptions": [
+      "Humans are a diverse and adaptable race, found throughout the world. Known for their ambition and resilience, they can thrive in nearly any environment. Humans are quick learners, capable of mastering many crafts, professions, and skills. They are often seen as the mediators of the realm, forging alliances and influencing the course of history with their diplomatic nature. Though they lack the long lifespans of some other races, humans make up for it with sheer determination and ingenuity. Their diverse cultures and traditions have made them one of the most prominent and powerful races in the world.",
+      "The High Elves, or Altmer, are a graceful and ancient race with an innate connection to magic. With their long lives and superior intellect, they have mastered the arcane arts and often see themselves as the keepers of knowledge and civilization. The High Elves are known for their elegance, wisdom, and often haughty demeanor, believing themselves to be the superior race. Their society is built upon strict traditions, reverence for the arts, and an obsession with perfection. Though their arrogance can make them seem distant, their magic and cultural influence are undeniable.",
+      "The Dark Elves, or Dunmer, are a mysterious and often misunderstood race. Born from the harsh volcanic regions of the north, they are a resilient people who have adapted to extreme conditions. They are known for their skill in both magic and combat, particularly stealth and assassination. Dark Elves are often seen as brooding and enigmatic, their history marked by betrayal and rebellion. Their society values strength and cunning, and they are often distrustful of outsiders. However, their complex culture and deep sense of honor make them a formidable force in the world.",
+      "The Bretons are a human-like race with a rich history tied to both magic and chivalric traditions. Born of a mix between humans and elves, they inherit both the versatility of humans and the natural magical aptitude of elves. Bretons are often known for their exceptional skill in the arcane arts, particularly in defensive and restoration magic. They value their nobility and are often seen as scholars, warriors, or diplomats. Their culture is steeped in both elegance and martial prowess, making them one of the most well-rounded and respected races in the realm.",
+      "Argonians are a reptilian race native to the swamps of Black Marsh. They are deeply connected to the land and possess the ability to breathe underwater, making them unmatched in aquatic environments. Argonians are often seen as mysterious and elusive due to their secretive nature and unique culture. They value survival, adaptability, and a deep connection to the ancient forces of nature. Although their appearance and habits may seem alien to many, their knowledge of the marshes and their resilient, resourceful nature make them invaluable allies and fierce enemies.",
+      "The Redguards are a proud and formidable people from the deserts of Hammerfell. Known for their unparalleled skill in combat, especially with swords and other blades, they have earned a reputation as some of the finest warriors in the world. The Redguards have a deep respect for honor, family, and tradition, often living by a strict warrior code. Despite their martial prowess, they are also skilled sailors, merchants, and diplomats. Their culture is rich in art, music, and stories of legendary heroes, making them both fierce and culturally sophisticated.",
+      "Half-Elves are born from the union of elves and humans, often finding themselves caught between two worlds. With the grace and agility of their elven heritage and the versatility of humans, Half-Elves are often seen as natural diplomats, capable of navigating both human and elven societies. Though they sometimes struggle with their identity and are viewed as outsiders by both races, their adaptability and charm make them valuable allies in any setting. Their mixed heritage gives them a unique perspective on the world, making them well-suited to both leadership and problem-solving roles.",
+      "Half-Orcs are the offspring of humans and orcs, often caught in a struggle between two very different cultures. Their towering stature and brutal strength make them formidable warriors, but their orcish blood also brings with it a sense of rage and unpredictability. Half-Orcs are often seen as outcasts, rejected by both humans and orcs alike. However, their tenacity and resilience have allowed them to carve out a place for themselves in the world. While their appearance and demeanor can be intimidating, many Half-Orcs have found honor and purpose in battle, earning the respect of those who once feared them."
+    ],
+    "statModifiers": [
+      "0,3,1/1,1,1/3,200,0",
+      "0,300,0/1,-100,0/5,200,0",
+      "0,50,0/1,2,1/6,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0",
+      "0,3,1/1,1,1/3,200,0"
+    ]
+  }
+}
