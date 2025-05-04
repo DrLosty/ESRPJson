@@ -41,14 +41,14 @@
       "A ferocious and primal class, Werewolves gain immense power and agility during the full moon. They are ideal for those who want a beastly, high-damage class with a focus on physical prowess and speed."
     ],
     "statModifiers": [
-      "0,120,0/8,2,1",
+      "0,120,0/8,5,1/7,50,0",
       "1,200,0",
       "3,200,0",
       "7,200,0",
       "1,600,0",
       "7,400,0",
-      "8,5,1/9,1,1",
-      "8,5,1/7,200,0"
+      "8,10,1/9,1,1",
+      "8,10,1/7,200,0"
     ]
   }
 }
