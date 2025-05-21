@@ -8,23 +8,15 @@
     ],
     "buttonUrls": [
       "",
-      ""
+      "https://discord.gg/khC4FPuNrA"
     ],
     "raceNames": [
       "Warrior",
-      "Mage",
-      "Assassin",
-      "Thief",
+      "Tinkerer",
       "Healer",
-      "Druid",
-      "Vampire",
-      "Werewolf"
+      "Druid"
     ],
     "selectableClass": [
-      true,
-      true,
-      true,
-      true,
       true,
       true,
       true,
@@ -34,21 +26,13 @@
       "A durable and powerful fighter specializing in melee combat. Perfect for those who want to take the front line, dish out heavy damage, and endure through tough battles.",
       "Masters of arcane magic, the Mage can unleash devastating spells from a distance. Ideal for players who enjoy strategic thinking, versatile spells, and manipulating the battlefield with magic.",
       "Stealthy and deadly, Assassins excel at taking out enemies quietly and efficiently. This class is for those who enjoy sneaking around and dealing massive damage with quick strikes.",
-      "Agile and cunning, Thieves are experts at stealing, disarming traps, and unlocking doors. If you enjoy exploration, collecting valuable items, and outsmarting enemies, this is the class for you.",
-      "A vital support role, Healers can restore health, cure ailments, and protect allies. Ideal for players who enjoy helping the team stay alive and thriving through tough encounters.",
-      "Nature’s protectors, Druids can transform into animals, summon nature-based allies, and control the forces of the natural world. Perfect for those who want versatility and the ability to shape-shift.",
-      "A dark and seductive class with enhanced strength, speed, and a thirst for blood. Vampires can manipulate darkness, regenerate health, and dominate their enemies. Best for players who enjoy a mix of stealth, strength, and supernatural powers.",
-      "A ferocious and primal class, Werewolves gain immense power and agility during the full moon. They are ideal for those who want a beastly, high-damage class with a focus on physical prowess and speed."
+      "Agile and cunning, Thieves are experts at stealing, disarming traps, and unlocking doors. If you enjoy exploration, collecting valuable items, and outsmarting enemies, this is the class for you."
     ],
     "statModifiers": [
-      "0,120,0/8,5,1/7,50,0",
-      "1,200,0",
-      "3,200,0",
-      "7,200,0",
-      "1,600,0",
-      "7,400,0",
-      "8,15,1/9,1,1",
-      "8,15,1/7,200,0"
+      "0,120,0/8,20,1/7,100,0",
+      "11,200,1/7,400,0",
+      "0,200,0/7,1200,0",
+      "7,200,0/11,200,1"
     ]
   }
 }
