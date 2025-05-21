@@ -8,34 +8,26 @@
     ],
     "buttonURLs": [
       "",
-      ""
+      "https://discord.gg/khC4FPuNrA"
     ],
     "raceNames": [
-      "Nord",
-      "Imperial",
-      "Breton",
-      "Khajiit",
-      "Redguard",
-      "Bosmer",
-      "Orc",
-      "Dunmer",
-      "Altmer",
-      "Argonian"
+      "Starforged",
+      "Verdant Kin",
+      "Stoneborn",
+      "Skymarked",
+      "Duskwalkers",
+      "Voidmarked"
     ],
     "selectableRace": [
-      "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE"
+      "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE"
     ],
     "raceDescriptions": [
-      "Nords are a hardy and brave people, native to the cold and rugged land of Skyrim. Known for their fierce spirit and deep sense of honor, they excel as warriors and seafarers. Nords are tall, fair-haired, and renowned for their resistance to cold and frost magic. Their culture places a high value on strength, family, and loyalty. Proud of their traditions and ancestry, Nords often find themselves leading or defending their homes with unwavering resolve. Their songs and tales of valor are deeply rooted in their everyday lives, celebrating heroes of both past and present.",
-      "Imperials are a sophisticated and disciplined race hailing from the cosmopolitan province of Cyrodiil. Known for their diplomacy, organization, and training, they have built one of the most powerful empires in history. Imperials are adept merchants, soldiers, and administrators, thriving in both commerce and governance. They value law, structure, and civic duty, believing in the strength of unified society. Their diverse cities are cultural melting pots, welcoming races from across the realm. Thanks to their education and charisma, Imperials often rise to positions of power and influence.",
-      "Bretons are a race of mixed human and elven blood, native to the province of High Rock. They possess a natural affinity for magic and are known for their intelligence and resourcefulness. Bretons are equally skilled in martial and magical pursuits, making them adaptable adventurers and resilient defenders. Their society is feudal, with noble houses competing for influence and prestige. Bretons pride themselves on their traditions of honor, scholarship, and knighthood. Their deep-seated magical resistance makes them uniquely capable in both battle and diplomacy.", 
-      "Khajiit are a feline race native to the desert province of Elsweyr, renowned for their agility, stealth, and unique appearance. Their forms vary with the phases of Nirn's moons, giving rise to many different shapes and sizes. Khajiit excel as thieves, traders, and warriors, often traveling in caravans across the world. Their culture is rich in storytelling, mysticism, and reverence for the moons. Outsiders often stereotype them as thieves, but Khajiit society values honor, loyalty, and kinship. Their sharp claws and reflexes make them deadly both with and without weapons.", 
-      "Redguards are the descendants of a warrior people who migrated from the lost continent of Yokuda to Hammerfell. They are unmatched in the ways of the sword and are famed for their swift reflexes and physical prowess. Redguards value independence, honor, and martial skill, often eschewing magic for raw ability. Their desert homeland has shaped them into resilient and pragmatic survivors. Redguards are also talented sailors and traders, controlling vast fleets across Tamriel. Their vibrant culture is rich in tradition, emphasizing heroism, music, and oral history.", 
-      "Bosmer, or Wood Elves, are the inhabitants of the dense forests of Valenwood. They are masters of archery, stealth, and guerrilla warfare, living in harmony with nature. Bosmer are bound by the Green Pact, a sacred covenant with the forest that forbids them from harming plant life. Instead, they live off the meat of animals and the resources of their prey. Agile and quick, Bosmer often serve as scouts, hunters, and mercenaries. Their society is tribal and deeply spiritual, respecting the spirits of the land and the cycle of life and death.",
-      "Orcs, also known as Orsimer, are the strong and resilient descendants of elves twisted by the Daedric Prince Malacath. Living in mountain strongholds, they value strength, honor, and craftsmanship above all else. Orcish society revolves around the clan, with the chief leading and all others serving in some role to maintain their survival. Renowned for their smithing abilities, Orcs craft some of the finest armor and weapons in Tamriel. Though often misunderstood and stereotyped as brutish, Orcs possess a rich culture of loyalty, endurance, and artistry. In battle, their ferocity is legendary.",
-      "Dunmer, or Dark Elves, hail from the province of Morrowind, a land of ash, volcanoes, and deep spiritual tradition. They are known for their red eyes, dark skin, and exceptional skill in magic and stealth. Dunmer society is complex, shaped by ancestor worship, Great Houses, and a reverence for living gods. Though they often appear cold and reserved, Dunmer value honor, family, and tradition deeply. Their resilience has been forged by centuries of hardship, conquest, and betrayal. In battle, they are tactical and formidable, blending sorcery and swordplay seamlessly.",
-      "Altmer, or High Elves, are a proud and ancient race originating from the Summerset Isles. With a deep connection to the magical forces of the world, they are often considered the most gifted spellcasters among the races of Tamriel. Altmer are tall, golden-skinned, and possess an air of superiority, viewing themselves as the rightful stewards of civilization. Their culture emphasizes scholarly pursuits, perfection, and reverence for their ancestral lineage. Though sometimes perceived as arrogant, Altmer dedication to mastery has shaped much of Tamriel’s magical knowledge. Their society is highly structured and deeply traditional.",
-      "Argonians are a reptilian race native to the treacherous swamps of Black Marsh. Adapted to their harsh environment, they possess the ability to breathe underwater and resist disease naturally. Argonians are deeply spiritual, guided by the Hist — ancient, sentient trees unique to their homeland. Outsiders often find them enigmatic and aloof, but among their own, they share strong communal bonds. Agile, stealthy, and resilient, Argonians excel at guerrilla tactics and survival. Their mysterious culture, shaped by isolation and the struggle for survival, makes them one of the most unique peoples of Tamriel."
+      "Humans infused with celestial draconic essence through ancient bonds. Culture: The noble houses of Veltherion who once bonded with celestial beasts—especially dragon-wyvern hybrids. Starforged pass on that power in blood and spirit.",
+      "Forest-dwelling humanoids with deep ties to nature and spirits, strong ties with druidic nature. Culture: Descendants of druids and seers who formed beast-bonds with celestial serpents and moon-spirits. They uphold the ancient rites of the Redwoods while losing their celestial bonds.",
+      "Mountain folk shaped by drake bloodlines and hard living. Culture: A stoic and honor-bound people of Grithorne’s highlands and caverns, once bonded to griffins and stone-drakes.",
+      "Freeborn inventors and skyfarers shaped by storm and steel. People able to build great steamed vessels to combat dragons. Culture: Descendants of airship riders, aethertech inventors, and sky pirates from Bravemire. Survivors of the Skyreach Fall.",
+      "Those who have survived death, spectral curses, or corrupted lands. Culture: Humans altered by prolonged exposure to the shadow remnants in places like Cindralore. Often feared, often gifted with spirit sense.",
+      "Humans transformed by alchemy and forbidden celestial mimicry. Culture: Created or warped by Imperial experiments—designed to mimic bonded beings without consent or nature’s blessing. Some rebel against their creators, others serve the reborn Empire."
     ],
     "statModifiers": [
       "8,5,1",
@@ -43,11 +35,7 @@
       "0,20,0",
       "0,40,0",
       "9,2,1",
-      "7,20,0/11,20,0",
-      "0,40,0/8,15,1",
-      "11,10,0/1,10,0",
-      "0,10,0/1,10,0/11,10,0",
-      "7,400,0"
+      "7,20,0/11,20,0"
     ]
   }
 }
