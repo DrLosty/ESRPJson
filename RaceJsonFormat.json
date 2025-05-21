@@ -19,7 +19,7 @@
       "Voidmarked"
     ],
     "selectableRace": [
-      "TRUE", "TRUE", "TRUE", "TRUE", "TRUE", "TRUE"
+      "TRUE", "TRUE", "TRUE", "TRUE", "FALSE", "FALSE"
     ],
     "raceDescriptions": [
       "Humans infused with celestial draconic essence through ancient bonds. Culture: The noble houses of Veltherion who once bonded with celestial beasts—especially dragon-wyvern hybrids. Starforged pass on that power in blood and spirit.",
@@ -30,12 +30,12 @@
       "Humans transformed by alchemy and forbidden celestial mimicry. Culture: Created or warped by Imperial experiments—designed to mimic bonded beings without consent or nature’s blessing. Some rebel against their creators, others serve the reborn Empire."
     ],
     "statModifiers": [
-      "8,5,1",
-      "8,5,1",
-      "0,20,0",
-      "0,40,0",
-      "9,2,1",
-      "7,20,0/11,20,0"
+      "0,50,0/7,150,0",
+      "7,150,0/1,600,0",
+      "8,20,1",
+      "7,150,0/11,200,1",
+      "8,50,0/9,20,0/7,600,0",
+      "8,50,0/9,20,0/7,600,0"
     ]
   }
 }
