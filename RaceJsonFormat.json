@@ -1,7 +1,7 @@
 {
   "RacesData": {
-    "menuTitle": "Choose Your Race",
-    "menuGuide": "This is a Role Playing server, where you'll shape your journey by selecting your character's race. This choice will define your character's stat modifiers, abilities, and unique lore—all integral to your adventure in this fantasy world.\n\nEach race offers distinct stat modifiers that impact your strength, agility, intelligence, and more, influencing your playstyle. In addition, you'll find a detailed lore or description of each race, providing insight into their history, culture, and how they fit into the world.\n\nYour race will affect not only your character's powers and appearance, but also your interactions with other players. Choose wisely, as this decision will guide your role in the ongoing story and the relationships you'll form throughout your adventure.\n\nExplore the options, review the stat modifiers, and dive into the rich lore of each race before making your choice. The world awaits you!",
+    "menuTitle": "Choose Your Regoin",
+    "menuGuide": "Select your Region",
     "buttonTitles": [
       "Server Website",
       "Server Discord"
@@ -11,31 +11,22 @@
       "https://discord.gg/khC4FPuNrA"
     ],
     "raceNames": [
-      "Starforged",
-      "Verdant Kin",
-      "Stoneborn",
-      "Skymarked",
-      "Duskwalkers",
-      "Voidmarked"
+      "Northerner",
+      "Andal",
+      "Valyrian"
     ],
     "selectableRace": [
-      "FALSE", "FALSE", "FALSE", "FALSE", "FALSE", "FALSE"
+      "TRUE", "TRUE", "TRUE"
     ],
     "raceDescriptions": [
-      "Humans infused with celestial draconic essence through ancient bonds. Culture: The noble houses of Veltherion who once bonded with celestial beasts—especially dragon-wyvern hybrids. Starforged pass on that power in blood and spirit.",
-      "Forest-dwelling humanoids with deep ties to nature and spirits, strong ties with druidic nature. Culture: Descendants of druids and seers who formed beast-bonds with celestial serpents and moon-spirits. They uphold the ancient rites of the Redwoods while losing their celestial bonds.",
-      "Mountain folk shaped by drake bloodlines and hard living. Culture: A stoic and honor-bound people of Grithorne’s highlands and caverns, once bonded to griffins and stone-drakes.",
-      "Freeborn inventors and skyfarers shaped by storm and steel. People able to build great steamed vessels to combat dragons. Culture: Descendants of airship riders, aethertech inventors, and sky pirates from Bravemire. Survivors of the Skyreach Fall.",
-      "Those who have survived death, spectral curses, or corrupted lands. Culture: Humans altered by prolonged exposure to the shadow remnants in places like Cindralore. Often feared, often gifted with spirit sense.",
-      "Humans transformed by alchemy and forbidden celestial mimicry. Culture: Created or warped by Imperial experiments—designed to mimic bonded beings without consent or nature’s blessing. Some rebel against their creators, others serve the reborn Empire."
+      "A race of old folk older than winter itself",
+      "Andals are those south in Westeros considered mostly normal",
+      "Valyrians are considered gods among men but same say even gods can die",
     ],
     "statModifiers": [
-      "0,50,0/7,150,0",
-      "7,50,0/1,600,0",
-      "8,250,1",
-      "7,150,0/11,200,1",
-      "8,250,0/9,20,0/7,600,0",
-      "8,250,0/9,20,0/7,600,0"
+      "10,50,0/6,50,0",
+      "4,50,0/5,50,0",
+      "1,50,0"
     ]
   }
 }
