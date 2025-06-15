@@ -41,14 +41,14 @@
       "Sworn to knowledge and bound in chain, maesters counsel lords, heal wounds, and keep the realm's secrets hidden in parchment and ink."
     ],
     "statModifiers": [
-      "10,200,0",
-      "11,1400,0",
-      "7,200,0",
-      "1,200,0",
-      "11,600,0",
-      "6,200,0",
-      "6,1200,0/10,1200,0",
-      "7,1200,0/0,1200,0"
+      "10,150,0",
+      "11,150,0",
+      "7,150,0",
+      "1,150,0",
+      "11,150,0",
+      "6,150,0",
+      "6,150,0/10,150,0",
+      "7,150,0/0,150,0"
     ]
   }
 }
