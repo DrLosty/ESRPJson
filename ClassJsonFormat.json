@@ -1,7 +1,7 @@
 {
   "ClassesData": {
-    "menuTitle": "Choose your main class",
-    "menuGuide": "Choose your class according to your whitelist",
+    "menuTitle": "Classes",
+    "menuGuide": "Choose your main class according to your whitelist",
     "buttonTitles": [
       "Server Website",
       "Server Discord"
