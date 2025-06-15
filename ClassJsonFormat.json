@@ -1,7 +1,7 @@
 {
   "ClassesData": {
-    "menuTitle": "Choose Your Class",
-    "menuGuide": "Classes in games are essentially predefined roles that define how a character interacts with the world, engages in combat, and supports or challenges others. Each class typically offers a unique set of abilities, strengths, and weaknesses, allowing players to choose a playstyle that matches their preferences.\n\nClasses determine what a character can do—whether it's dealing damage, healing, controlling the environment, or providing support. In many games, classes can be tailored or evolved as characters progress, giving players room for customization.\n\nAt their core, classes help balance gameplay by ensuring that different types of characters can interact with each other in complementary ways. Whether you prefer upfront combat, stealth, magic, or healing, the diversity of classes ensures that every player can find a role that suits them, whether playing solo or as part of a team.",
+    "menuTitle": "Choose your main class",
+    "menuGuide": "Choose your class according to your whitelist",
     "buttonTitles": [
       "Server Website",
       "Server Discord"
@@ -11,28 +11,44 @@
       "https://discord.gg/khC4FPuNrA"
     ],
     "raceNames": [
-      "Warrior",
-      "Tinkerer",
+      "Milita",
+      "Serf",
+      "Blacksmith",
+      "Hunter",
       "Healer",
-      "Druid"
+      "Thief",
+      "Dragon Keeper",
+      "Maester"
     ],
     "selectableClass": [
+      true,
+      true,
+      true,
+      true,
       true,
       true,
       true,
       true
     ],
     "classDescriptions": [
-      "A durable and powerful fighter specializing in melee combat. Perfect for those who want to take the front line, dish out heavy damage, and endure through tough battles.",
-      "Masters of arcane magic, the Mage can unleash devastating spells from a distance. Ideal for players who enjoy strategic thinking, versatile spells, and manipulating the battlefield with magic.",
-      "Stealthy and deadly, Assassins excel at taking out enemies quietly and efficiently. This class is for those who enjoy sneaking around and dealing massive damage with quick strikes.",
-      "Agile and cunning, Thieves are experts at stealing, disarming traps, and unlocking doors. If you enjoy exploration, collecting valuable items, and outsmarting enemies, this is the class for you."
+      "Common folk trained with spear and shield, they form the backbone of any levy, fighting not for glory but for survival and duty.",
+      "Toilers of soil, keepers of hearths and livestock, serfs feed the realm and breed its beasts, the lifeblood of every holdfast.",
+      "Forged in fire and sweat, blacksmiths are the silent crafters of war—makers of blades, armor, and the fate of kings.",
+      "Wielders of rope and raw meat, tamers bend the wild to their will, commanding beasts as allies in hunt and war.",
+      "With steady hands and ancient herbs, healers mend the broken, serving smallfolk and lords alike beneath the ever-turning wheel of pain and mercy.",
+      "Quick of hand and fleet of foot, thieves slip through shadows and locked doors alike, thriving in chaos and coin.",
+      "Chosen few who walk among fire and scale, they are guardians of the realm’s greatest power—beasts born of Valyria.",
+      "Sworn to knowledge and bound in chain, maesters counsel lords, heal wounds, and keep the realm's secrets hidden in parchment and ink."
     ],
     "statModifiers": [
-      "8,150,1/7,100,0",
-      "11,200,1/7,400,0",
-      "0,200,0/7,1200,0",
-      "7,200,0/11,200,1"
+      "10,200,0",
+      "11,1400,0",
+      "7,200,0",
+      "1,200,0",
+      "11,600,0",
+      "6,200,0",
+      "6,1200,0/10,1200,0",
+      "7,1200,0/0,1200,0"
     ]
   }
 }
